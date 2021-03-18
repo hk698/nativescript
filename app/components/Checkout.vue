@@ -115,6 +115,85 @@ export default {
 </script>
 
 <style>
+.cart{
+    padding: 30;
+}
+.cart2{
+    margin-top: 200;
+    align-content: center;
+    padding: 30;
+}
+.text{
+    margin-bottom: 10;
+    height: 50;
+    color:black;
+    font-size: 20;
+}
+.subject{
+    font-size: 22;
+    font-weight: bold;
+}
+.RemoveBtn{
+    background-color: red;
+    color: white;
+    height: 50;
+    width: 100%;
 
+}
+.checkoutbtn{
+    margin-right: 10;
+    padding: 30 ;
+    font-size: 25;
+    font-weight: bold;
+    color: black;
+    background-color: aquamarine;
+    height: 50;
+    width: 50%;
+   
+    }
+.items{
+    padding: 30 ;
+    font-size: 25;
+    color: white;
+}
+.empty{
+    text-align: center;
+    padding-top: 200;
+    font-size: 30;
+    font-weight: bold;
+}
+.complete{
+    font-size: 25;
+    color: black;
+    background-color: aquamarine;
+    height: 50;
+    width: 79%;
+    }
+.back{
+    background-color: red;
+    color: white;
+    height: 50;
+    width: 50%;
+}
+.thanks{
+    text-align: center;
+    padding: 30;
+    margin-top: 200;
+    font-size: 50; 
+    font-weight: bold;
+}
+.close{
+     background-color: red;
+    color: white;
+    height: 50;
+    width: 30%;
+}
+.details{
+    font-size: 30;
+    text-align: center;
+    padding-bottom: 10;
+    font-weight: bold;
+    margin-top: 0;
+}
 
 </style>
