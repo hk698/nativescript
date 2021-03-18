@@ -1,5 +1,5 @@
 <template>
-   <Page>
+   <Page> 
        <ActionBar title="Classes and Activities"/>
        
        
@@ -12,7 +12,7 @@
             </TabStripItem>
             <TabStripItem>
                 <Label text="Cart"></Label>
-                <Image src="res://settings"></Image> 
+                <Image src="~/image/shopping-cart.png"></Image> 
             </TabStripItem>  
         </TabStrip>
         <TabContentItem>
