@@ -23,5 +23,37 @@ export default {
 </script>
 
 <style>
+.lessons{
+    padding: 30;
+}
+.lessonImage{
+    width: 100%;
+    height: 300;
+    padding-top: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: aliceblue;
+}
+.subject{
+    font-size: 22;
+    font-weight: bold;
+}
 
+.location{
+    font-size: 16;
+}
+.price{
+    font-size: 16;
+}
+.spaces{
+    font-size:16;
+}
+.btn{
+    background-color: aquamarine;
+    color: black;
+    height: 50;
+    width: 100%;
+
+}
 </style>
